@@ -2,7 +2,7 @@
 
 **A real-time satellite tracking application for amateur radio operators.**
 
-Built by SA1CKW — designed for practical use at the radio shack.
+Built by SA1CKW with help of AI — designed for practical use at the radio shack.
 
 ---
 
