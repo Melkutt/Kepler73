@@ -64,7 +64,6 @@ The interface runs in your browser, but everything is computed locally. No cloud
 A pre-built Windows executable is available under [Releases](../../releases).
 
 1. Download and unzip `Kepler73-Win.zip`
-2. Browse to \Kepler73-Win\dist\Kepler73
 3. Double-click `Kepler73.exe`
 4. Your browser opens automatically at `http://127.0.0.1:5000`
 
